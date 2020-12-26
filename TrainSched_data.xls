@@ -1,0 +1,4 @@
+Line,From,To,Distance,Running Time,Signal Blocks
+HS2,London Euston,London Old Oak,23,5,1
+HS2,London Old Oak,Birmingham Interchange,145,30, 14
+HS2,Birmingham Interchange,Birmingham Curzon,42,9,2
